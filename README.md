@@ -61,7 +61,7 @@ button:hover {
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/text-document-summarizer.git
+   git clone https://github.com/InsaneAbhinav/text-document-summarizer.git
    ```
 
 2. Install the required dependencies:
