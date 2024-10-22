@@ -1,7 +1,3 @@
-Here is a suggested GitHub repository presentation for your project:
-
----
-
 # 📄 Text & Document Summarizer
 
 A powerful web application built using **Streamlit** that performs **text summarization**, **sentiment analysis**, **keyword extraction**, and **text comparison**. It supports multiple document formats such as PDF, DOCX, PPTX, and images for OCR-based extraction and summarization.
