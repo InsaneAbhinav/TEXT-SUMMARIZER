@@ -1,0 +1,126 @@
+body {
+    background-color: #f0f8ff; 
+    font-family: 'Arial', Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    color: #1df30d; 
+    text-align: center;
+    font-family: 'Arial', Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #32ec08; 
+    margin-bottom: 20px;
+}
+
+
+.sidebar .sidebar-content {
+    background-color: #32cd32; 
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+button {
+    background-color: #ff4500; 
+    color: rgb(0, 0, 0);
+    padding: 12px 24px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+button:hover {
+    background-color: #ff6347; 
+}
+
+
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #66e60b;
+    border-radius: 8px;
+    background-color: #fff8dc; 
+    font-size: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+.css-1d391kg { 
+    color: #45c928; 
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+
+.stButton > button {
+    background-color: rgba(0, 0, 0, 0.833);
+    color: rgb(23, 241, 11);
+    padding: 12px 24px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.718);
+    transition: background-color 0.3s ease;
+}
+
+.stButton > button:hover {
+    background-color: #000000; 
+}
+
+
+a {
+    color: #1e90ff; 
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #ff4500; 
+}
+
+
+.content-box {
+    background-color: #fffacd; 
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+.footer {
+    background-color: #32cd32; 
+    color: white;
+    padding: 15px;
+    text-align: center;
+    border-top: 4px solid #07e816; 
+}
+
+.head {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin-top: 20px; 
+    height: 100px; 
+}
+
+.sidebar-nav a {
+    color: #1df30d;
+}
