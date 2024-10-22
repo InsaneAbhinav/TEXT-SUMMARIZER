@@ -110,5 +110,6 @@ AI is transforming industries by offering solutions to complex problems...
 
 ## 🖼️ Screenshots
 ![image](https://github.com/user-attachments/assets/27f6b226-8e05-4673-a89f-fce53e603a67)
+
 ![image](https://github.com/user-attachments/assets/addb8402-09d9-4888-8736-9c1e9008598d)
 ---
